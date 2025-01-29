@@ -1,0 +1,19 @@
+This dataset classifies people described by a set of attributes as good or bad credit risks. Comes in two formats (one all numeric). Also comes with a cost matrix
+
+Dataset Characteristics
+Multivariate
+
+Subject Area
+Social Science
+
+Associated Tasks
+Classification
+
+Feature Type
+Categorical, Integer
+
+# Instances
+1000
+
+# Features
+20
