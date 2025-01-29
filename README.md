@@ -1,5 +1,6 @@
 # The-Shard-Credit-Risk-Classification-Model-and-API
 Data Cleaning &amp; Preparation for Credit Risk Analysis using the Starlog German Credit Dataset as part of The Shard Home Assessment.
+
 Thank you Bunbun@DESKTOP-1R290G2 MINGW64 ~
 $ git config --global user.name "Nobuhle Nkosi"
 
